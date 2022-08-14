@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Fashion</string>
+    <string name="Fashion1">Makeup</string>
+    <string name="Fashion2">Dresses</string>
+    <string name="Fashion3">Bags</string>
+    <string name="Fashion4">Heels</string>
+    <string name="Fashion5">Jewelry</string>
+</resources>
